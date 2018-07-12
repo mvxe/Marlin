@@ -133,6 +133,7 @@
 #define BOARD_OMCA              91    // Final OMCA board
 #define BOARD_SETHI             20    // Sethi 3D_1
 #define BOARD_ANET_10           69    // Anet 1.0 (Melzi clone)
+#define BOARD_MVSC             613    // MVSC board
 
 //
 // Teensyduino - AT90USB1286, AT90USB1286P

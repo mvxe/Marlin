@@ -227,6 +227,8 @@
   #include "pins_ANET_10.h"           // ATmega1284P
 #elif MB(SETHI)
   #include "pins_SETHI.h"             // ATmega644P, ATmega644, ATmega1284P
+#elif MB(MVSC)
+  #include "pins_MVSC.h"              // ATmega644P
 
 //
 // Teensyduino - AT90USB1286, AT90USB1286P
